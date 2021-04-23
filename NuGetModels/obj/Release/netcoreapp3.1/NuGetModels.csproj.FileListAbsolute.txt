@@ -1,0 +1,8 @@
+G:\Repos\NuGetModels\NuGetModels\bin\Release\netcoreapp3.1\NuGetModels.deps.json
+G:\Repos\NuGetModels\NuGetModels\bin\Release\netcoreapp3.1\NuGetModels.dll
+G:\Repos\NuGetModels\NuGetModels\bin\Release\netcoreapp3.1\NuGetModels.pdb
+G:\Repos\NuGetModels\NuGetModels\obj\Release\netcoreapp3.1\NuGetModels.AssemblyInfoInputs.cache
+G:\Repos\NuGetModels\NuGetModels\obj\Release\netcoreapp3.1\NuGetModels.AssemblyInfo.cs
+G:\Repos\NuGetModels\NuGetModels\obj\Release\netcoreapp3.1\NuGetModels.csproj.CoreCompileInputs.cache
+G:\Repos\NuGetModels\NuGetModels\obj\Release\netcoreapp3.1\NuGetModels.dll
+G:\Repos\NuGetModels\NuGetModels\obj\Release\netcoreapp3.1\NuGetModels.pdb

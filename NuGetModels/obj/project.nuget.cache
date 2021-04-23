@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OzJmUNb6FKLooe4hGsXPzjGwX+tf98T8uwccmWGy/orXf/I4Qv/0tSq1BwTMMGam7h3wbKg59NFXxGr4MeOa5Q==",
+  "success": true,
+  "projectFilePath": "G:\\Repos\\NuGetModels\\NuGetModels\\NuGetModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Naza\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

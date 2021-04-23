@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NuGetModels</id>
+    <version>1.0.1</version>
+    <authors>Nazaret</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <icon>imagen.jpg</icon>
+    <description>Primer paquete nuget</description>
+    <tags>Models, NuGetModels, Nazaret, NugetNazaret</tags>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="System.ComponentModel.Annotations" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="G:\Repos\NuGetModels\NuGetModels\bin\Release\netcoreapp3.1\NuGetModels.dll" target="lib\netcoreapp3.1\NuGetModels.dll" />
+    <file src="G:\Repos\NuGetModels\NuGetModels\imagen.jpg" target="imagen.jpg" />
+  </files>
+</package>
